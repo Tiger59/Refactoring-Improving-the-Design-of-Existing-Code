@@ -1,1 +1,1 @@
-# Refactoring-Improving-the-Design-of-Existing-Code
+# 『リファクタリング 既存のコードを安全に改善する（第二版）』 のコードリポジトリ
