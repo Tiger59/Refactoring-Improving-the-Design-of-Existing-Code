@@ -2,7 +2,7 @@
 ## 起動方法
 ### JavaScript
 ```
-npm install @babel/plugin-transform-modules-commonjs
+npm install
 npx jest
 ```
 ### Python
